@@ -1,0 +1,35 @@
+NET clk PERIOD=20.8ns;
+NET clkfx PERIOD=5.2ns;
+NET clk   LOC=P50;
+
+NET ra1   LOC=P39;
+NET rc1   LOC=P70;
+NET rc3   LOC=P64;
+
+NET rb<7> LOC=P65;
+NET rb<6> LOC=P62;
+NET rb<5> LOC=P61;
+NET rb<4> LOC=P46;
+NET rb<3> LOC=P45;
+NET rb<2> LOC=P44;
+NET rb<1> LOC=P43;
+NET rb<0> LOC=P48;
+
+NET but LOC=P6;
+
+NET data<15> LOC=P33;
+NET data<14> LOC=P30;
+NET data<13> LOC=P17;
+NET data<12> LOC=P88;
+NET data<11> LOC=P85;
+NET data<10> LOC=P83;
+NET data<9>  LOC=P79;
+NET data<8>  LOC=P75;
+NET data<7>  LOC=P21;
+NET data<6>  LOC=P15;
+NET data<5>  LOC=P93;
+NET data<4>  LOC=P95;
+NET data<3>  LOC=P10;
+NET data<2>  LOC=P27;
+NET data<1>  LOC=P81;
+NET data<0>  LOC=P24;
